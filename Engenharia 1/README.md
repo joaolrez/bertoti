@@ -40,11 +40,11 @@ Resposta: Trade-off é a teoria de que se irá gastar mais memória e utilizar m
 - Interface simples
 - Sistema com capacidade de ser usado rapidamente no dia a dia.
 
-> Modelo Entidade Relacionamento
+**Modelo Entidade Relacionamento**
 ![MER](https://user-images.githubusercontent.com/102550311/203933199-ad44bdac-2d9c-42a7-baa9-b4efe2c25145.png)
 
 
-> Diagrama de caso de uso
+**Diagrama de caso de uso**
 > ![Diagrama de Caso de Uso](https://user-images.githubusercontent.com/102550311/203933294-b076c455-3de2-43ce-bd8d-de1cec0c327c.png)
 
 
