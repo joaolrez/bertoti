@@ -45,7 +45,8 @@ Resposta: Trade-off é a teoria de que se irá gastar mais memória e utilizar m
 
 
 **Diagrama de caso de uso**
-> ![Diagrama de Caso de Uso](https://user-images.githubusercontent.com/102550311/203933294-b076c455-3de2-43ce-bd8d-de1cec0c327c.png)
+
+![diagrama de caso de uso](https://user-images.githubusercontent.com/102550311/204814369-3de868a3-40ca-4a27-81bd-98bb2d664965.png)
 
 
 
