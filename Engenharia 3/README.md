@@ -27,7 +27,7 @@
         <td>Alto Acomplamento</td>
         <td>Notifica imediatamente mesmo que os objetos estejam separados contanto que estejam no mesmo método.</td>
         <td>Facilita que objetos se inscrevam para receber alertas imediatos sobre eventos em um objeto monitorado, promovendo a comunicação entre eles.</td>
-        <td>Oo padrão Observer é empregado para automatizar a atualização em tempo real de interfaces de usuário, notificar assinantes de eventos em sistemas de mensagens e manter a consistência de dados distribuídos. Ele oferece uma maneira desacoplada de reagir a eventos em outros objetos, exemplificado pela biblioteca Observable e implementações de EventListener em componentes Swing.</td>
+        <td>O padrão Observer é empregado para automatizar a atualização em tempo real de interfaces de usuário, notificar assinantes de eventos em sistemas de mensagens e manter a consistência de dados distribuídos. Ele oferece uma maneira desacoplada de reagir a eventos em outros objetos, exemplificado pela biblioteca Observable e implementações de EventListener em componentes Swing.</td>
     </tr>
 
  </tr>
